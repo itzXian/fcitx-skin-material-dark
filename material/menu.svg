@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg4250"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    width="38"
    height="38"
    viewBox="0 0 38 38"
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -70,17 +70,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="735"
+     inkscape:window-width="960"
+     inkscape:window-height="1059"
      id="namedview4252"
      showgrid="false"
      showborder="false"
-     inkscape:zoom="1"
-     inkscape:cx="46.762526"
-     inkscape:cy="21.981081"
+     inkscape:zoom="16"
+     inkscape:cx="19.399045"
+     inkscape:cy="26.424973"
      inkscape:window-x="0"
-     inkscape:window-y="7"
-     inkscape:window-maximized="1"
+     inkscape:window-y="21"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg4250">
     <inkscape:grid
        type="xygrid"
@@ -91,15 +91,7 @@
      height="38"
      preserveAspectRatio="none"
      style="image-rendering:optimizeSpeed"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAmCAYAAACoPemuAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
-AAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAE3SURB
-VFiF7dhBasMwEEDRL8VNFqW9QLc9T3ujXM0n6S6FpkuVEiQnM11YcqZQClrYzkIfhAl28GMWgYzj
-mjMHc507NVc1nyfEJoTwKiLvunAicgghvACbMpAyIQ90IvLmnHtaaFK/UtWD9/4ZOAMyoYCdqoY1
-UCXn3CMQgbPnOrHtmqjcltHiLKxblTTWYWBwxa1dGRQWttTPw39NjluY0p81WG0NVluD1dZgtTVY
-bQ1WW4PV1mC1NVhtDVZbg9VWYAroMAzHtSAppQ/MGsrCpO/7fYzxc2lUjPHY9/0ekAJzjDupO+Ae
-eMhnx7hHmPvfuTKunSLwlc83MHT5pgAJOOUvJMwSbWbYJcNO+b0CaGdupvzwOT80LThmhkl+Z8rn
-Aqjdt3rGKXmDWgJWcJJRYmEFdzPL4R/Vb9iAP4qwuwAAAABJRU5ErkJggg==
-"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAmCAYAAACoPemuAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAE3SURB VFiF7dhBasMwEEDRL8VNFqW9QLc9T3ujXM0n6S6FpkuVEiQnM11YcqZQClrYzkIfhAl28GMWgYzj mjMHc507NVc1nyfEJoTwKiLvunAicgghvACbMpAyIQ90IvLmnHtaaFK/UtWD9/4ZOAMyoYCdqoY1 UCXn3CMQgbPnOrHtmqjcltHiLKxblTTWYWBwxa1dGRQWttTPw39NjluY0p81WG0NVluD1dZgtTVY bQ1WW4PV1mC1NVhtDVZbg9VWYAroMAzHtSAppQ/MGsrCpO/7fYzxc2lUjPHY9/0ekAJzjDupO+Ae eMhnx7hHmPvfuTKunSLwlc83MHT5pgAJOOUvJMwSbWbYJcNO+b0CaGdupvzwOT80LThmhkl+Z8rn Aqjdt3rGKXmDWgJWcJJRYmEFdzPL4R/Vb9iAP4qwuwAAAABJRU5ErkJggg== "
      id="image4258"
      x="57"
      y="2" />
@@ -120,7 +112,7 @@ Aqjdt3rGKXmDWgJWcJJRYmEFdzPL4R/Vb9iAP4qwuwAAAABJRU5ErkJggg==
      id="rect4334"
      style="opacity:0.33000004;fill:#000000;fill-opacity:1;filter:url(#filter4428)" />
   <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1"
+     style="opacity:1;fill:#272a34;fill-opacity:1"
      id="rect4262"
      width="32"
      height="32"
